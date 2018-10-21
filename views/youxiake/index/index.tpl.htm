@@ -1,0 +1,96 @@
+<?php TPL::output('global/header.tpl.htm'); ?>
+
+<div class="aw-container-wrap">
+
+
+    <div class="search-box">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="游记/旅游攻略/目的地">
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="button">搜索</button>
+            </span>
+        </div>
+    </div>
+
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="<?php echo G_STATIC_URL; ?>/css/default/img/8f5b12884208f2fa9c47f9c08700e3b9.jpeg" alt=""></div>
+            <div class="swiper-slide"><img src="<?php echo G_STATIC_URL; ?>/css/default/img/725ec36e5945e24272edef2873b6d73e.jpeg" alt=""></div>
+            <div class="swiper-slide"><img src="<?php echo G_STATIC_URL; ?>/css/default/img/49021539754782.jpg" alt=""></div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+
+        <!-- 如果需要导航按钮 -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+
+    <div class="container">
+        <div id="home-top">
+            <div class="rows">
+                <div class="col-md-9">
+                    <img src="<?php echo G_STATIC_URL; ?>/css/youxiake/img/31231538297067.png" alt="">
+                </div>
+                <div class="col-md-3">
+                    <img src="<?php echo G_STATIC_URL; ?>/css/youxiake/img/40091538017522.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-12 col-md-9 aw-main-content" id="top-funs">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active"><a href="#sort_control_hot" aria-controls="sort_control_hot" role="tab" data-toggle="tab">热门游记</a></li>
+                <li role="presentation"><a href="#sort_control_recommend" aria-controls="sort_control_recommend" role="tab" data-toggle="tab">精华游记</a></li>
+                <li role="presentation"><a href="#sort_control_new" aria-controls="sort_control_new" role="tab" data-toggle="tab">最新游记</a></li>
+            </ul>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="sort_control_hot">热门游记</div>
+                <div role="tabpanel" class="tab-pane" id="sort_control_recommend">精华游记</div>
+                <div role="tabpanel" class="tab-pane" id="sort_control_new">最新游记</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+        var mySwiper = new Swiper ('.swiper-container', {
+            direction: 'horizontal', // 水平切换选项
+            loop: true, // 循环模式选项
+
+            // 如果需要分页器
+            pagination: {
+                el: '.swiper-pagination',
+            },
+
+            // 如果需要前进后退按钮
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+
+            // 如果需要滚动条
+            scrollbar: {
+                el: '.swiper-scrollbar',
+            },
+        });
+    }
+
+    $(document).ready(function(){
+        $.ajax({
+            url:'/?/index/list',
+            method:'GET',
+            dataType:'JSON',
+            success:function(data,status) {
+                console.log(data);
+            }
+        });
+    })
+
+
+</script>
+
+<?php TPL::output('global/footer.tpl.htm'); ?>
