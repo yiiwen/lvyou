@@ -82,8 +82,7 @@ class AWS_CONTROLLER
 			AWS_APP::session()->human_valid = array();
 		}
 
-        $css = 'common.css';//
-        $css = 'green.css';
+        $css = 'common.css';
         if ($this->user_id&&$this->user_info['skin']) {
             $css = $this->user_info['skin'];
         }

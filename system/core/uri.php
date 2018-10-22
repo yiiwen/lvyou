@@ -21,17 +21,11 @@ class core_uri
 	);
 
 	// 默认控制器
-//	var $default_vars = array(
-//		'app_dir' => 'explore',
-//		'controller' => 'main',
-//		'action' => 'index'
-//	);
-
-    var $default_vars = array(
-        'app_dir' => 'index',
-        'controller' => 'main',
-        'action' => 'index'
-    );
+	var $default_vars = array(
+		'app_dir' => 'explore',
+		'controller' => 'main',
+		'action' => 'index'
+	);
 
 	var $app_dir = '';
 	var $controller = '';
