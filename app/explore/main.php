@@ -120,11 +120,19 @@ class main extends AWS_CONTROLLER
 			TPL::assign('feature_list', $this->model('module')->feature_list());
 		}
 
-		if (! $_GET['sort_type'] AND !$_GET['is_recommend'])
+		if ($_GET['news'])
 		{
-			$_GET['sort_type'] = 'new';
+            $_GET['sort_type'] = 'new';
 		}
-
+		else if ($_GET['sort_type'] == 'hot')
+        {
+            $_GET['sort_type'] = 'hot';
+        }
+		else
+        {
+            $_GET['sort_type'] = 'is_recommend';
+            $_GET['is_recommend'] = $_GET['is_recommend'] ? $_GET['is_recommend']: 1;
+        }
 		if ($_GET['sort_type'] == 'hot')
 		{
 			$posts_list = $this->model('posts')->get_hot_posts(null, $category_info['id'], null, $_GET['day'], $_GET['page'], get_setting('contents_per_page'));
@@ -144,9 +152,8 @@ class main extends AWS_CONTROLLER
 				}
 			}
 		}
-
 		TPL::assign('pagination', AWS_APP::pagination()->initialize(array(
-			'base_url' => get_js_url('/sort_type-' . preg_replace("/[\(\)\.;']/", '', $_GET['sort_type']) . '__category-' . $category_info['id'] . '__day-' . intval($_GET['day']) . '__is_recommend-' . intval($_GET['is_recommend'])),
+			'base_url' => get_js_url('/sort_type-' . preg_replace("/[\(\)\.;']/", '', $_GET['sort_type']) . '__category-' . $category_info['id'] . '__day-' . intval($_GET['day']) . '__news-' . intval($_GET['is_recommend'])),
 			'total_rows' => $this->model('posts')->get_posts_list_total(),
 			'per_page' => get_setting('contents_per_page')
 		))->create_links());

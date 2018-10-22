@@ -117,6 +117,7 @@ a.aw-load-more-content{display: block;}
 /* tabs切换样式 */
 .aw-nav-tabs{position:relative;z-index:1;height:63px;margin:0;padding: 30px 20px 0;border-color: #e6e6e6;}
 .aw-nav-tabs.active > li{float: right;}
+.question-list.active > li{float: left;}
 .aw-nav-tabs > li{margin:0 4px 0 0;font-size: 14px;}
 .aw-nav-tabs > li > a{line-height:30px;padding:0 13px;background-color: #fff;border: none;cursor: pointer;}
 .aw-nav-tabs > li > a:hover{border:none;border-bottom:2px solid #5bbf5a;background-color: #fff;color: #333;}
@@ -552,7 +553,7 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
 /* 问题列表公共模块 .aw-common-list */
 .aw-common-list{width:100%;height:auto;}
 .aw-common-list > div + div{border-top:1px solid #f5f5f5;}
-.aw-common-list .aw-item{position:relative;z-index:0;;min-height:77px;padding:14px 0 14px 50px;}
+.aw-common-list .aw-item{position:relative;z-index:0;;min-height:77px;padding:14px 0 14px 0px;}
 .aw-common-list .aw-item .icon-v, .aw-feed-list .aw-item .icon-v{position:absolute;left:-5px;top:-5px;width:18px;height:18px;background-color: #5bbf5a;color: #fff;text-align: center;line-height: 18px;font-size: 14px; }
 .aw-common-list .aw-item .icon-v.i-ve, .aw-feed-list .aw-item .icon-v.i-ve{background-color: #ffca3f;color: #fff;}
 .aw-common-list .aw-item.article .markitup-box{max-height: 130px;overflow: hidden;}
@@ -562,7 +563,7 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
 .aw-common-list .aw-item.article .inline-img{max-width:160px;max-height:80px;margin:5px 10px 0 0;}
 .aw-common-list .aw-item .aw-question-content .aw-user-name{color: #666;}
 /* 问题列表回复统计 */
-.aw-common-list .aw-question-content h4{margin:0 0 3px;padding-right:20px;font-size:14px;word-wrap:break-word;}
+.aw-common-list .aw-question-content h4{margin:0 0 3px;padding-right:20px;font-size:20px;font-weight:bold;word-wrap:break-word;}
 .aw-common-list .aw-question-content > span, .aw-common-list .aw-question-content p span{font-size: 12px;font-weight: normal;color: #999;}
 .aw-common-list .aw-question-content .aw-user-name img{max-width: 24px;}
 .aw-common-list .aw-question-content p{margin:0;color: #999;}
@@ -1106,4 +1107,5 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
 .N-title a{ background:#5bbf5a}
 
 
-
+.question_detail {  font-size: 14px;line-height: 21px;overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;max-height:63px;}
+.detail-btn a,.detail-btn span{color:#070771 !important;}
