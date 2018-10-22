@@ -2,308 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ce6151-22b7-4aee-8009-d108d2f1c460" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index/ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/0a30efc4e121c007d44b9d004e25dfa5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/0c397b108703cd9f0680c2f6439b979f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/2b294b0dbf331cf90a0f4bfe954f3140.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/2de34f7ae504d2b680af8509b170e8eb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/50c6fa1c2246c074705c87cc7b0c4960.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/773703b35201248e14c40f1e6591ff4a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/798fab8da143e1bc9ce8296e099786a9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/87bf625fc51452e79a56374d954d13ec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/ab7d17dd04cc4f7e9c37496314a8f0b1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/b16d10a50077d8cf4a0298867dfd2e06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/d15dbace9e9bfe39c8a2daba3cf18170.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/d527548c1fefcc627c9d0875f08f08a3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/ed6427a5cf33bbbcb6d5f519b08b8ba2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/f90793d2e5d4d48780e0a6d105386c8a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/captcha/f9a017e525c4d675cfb491e1423362c7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--0/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_sgnwiqyjlmgvfej_group_crond" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--0/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_user_group_99" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--0/e94b17---sgnwiqyjlmgvfej_cache_sgnwiqyjlmgvfej_group_crond" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--0/e94b17---sgnwiqyjlmgvfej_cache_user_group_99" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--2/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_day" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--2/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_day" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--3/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_hour" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--3/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_week" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--3/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_hour" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--3/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_week" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--5/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_minute" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--5/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_minute" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--6/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_admin_notifications" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--6/e94b17---sgnwiqyjlmgvfej_cache_admin_notifications" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--8/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_half_hour" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--8/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_db_rows_cache_f5abaad34643a35c3216e2730ce1f252" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--8/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_sgnwiqyjlmgvfej_group_users_group" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--8/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_half_hour" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--8/e94b17---sgnwiqyjlmgvfej_cache_db_rows_cache_f5abaad34643a35c3216e2730ce1f252" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--8/e94b17---sgnwiqyjlmgvfej_cache_sgnwiqyjlmgvfej_group_users_group" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--a/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_half_minute" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--a/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_ten_minutes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--a/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_half_minute" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--a/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_ten_minutes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--c/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_crond_timer_five_minutes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--c/e94b17---sgnwiqyjlmgvfej_cache_crond_timer_five_minutes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--e/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_reputation_calculate_start" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--e/e94b17---sgnwiqyjlmgvfej_cache_reputation_calculate_start" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--f/e94b17---internal-metadatas---sgnwiqyjlmgvfej_cache_user_group_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/e94b17--f/e94b17---sgnwiqyjlmgvfej_cache_user_group_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/default/img/49021539754782.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/default/img/725ec36e5945e24272edef2873b6d73e.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/default/img/8f5b12884208f2fa9c47f9c08700e3b9.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/swiper.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/youxiake/img/31231538297067.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/youxiake/img/40091538017522.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/youxiake/youxiake.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/swiper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/ajax/integral_log.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/ajax/welcome_get_topics.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/ajax/welcome_get_users.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/ajax/welcome_message_template.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/complete_profile.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/find_password/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/find_password/modify.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/find_password/process_success.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/login.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/openid/callback.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/register.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/integral.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/openid.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/privacy.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/profile.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/security.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/setting_footer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/setting_header.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/setting/verify.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/valid_approval.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/valid_email.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/valid_email_active.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/account/weixin_login.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/approval/edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/approval/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/approval/preview.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/article/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/category/edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/category/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/column/check.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/column/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/edm/groups.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/edm/receiving.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/edm/receiving_config.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/edm/receiving_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/edm/tasks.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/feature/edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/feature/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/global/footer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/global/header.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/global/nav_menu.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/help/edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/help/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/login.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/nav_menu.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/page/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/page/publish.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/project/approval_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/project/edit_order.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/project/order_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/project/project_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/question/question_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/question/report_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/settings.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/ticket/service_group_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/tools.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/topic/edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/topic/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/topic/parent.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/add.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/group_edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/group_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/integral_log.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/invites.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/job_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/register_approval_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/verify_approval_edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/user/verify_approval_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weibo/msg.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/account.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/accounts.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/edit_third_party_access_rule.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/mp_menu.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/qr_code.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/reply.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/reply_edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/send_msg_batch.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/sent_msg_details.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/sent_msgs_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/admin/weixin/third_party_access.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/article/ajax/comment.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/article/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/article/square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/content_nav_menu.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/domain_nav_menu.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/sidebar_announce.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/sidebar_feature.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/sidebar_hot_topics.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/sidebar_hot_users.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/sidebar_menu.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/block/sidebar_recommend_users_topics.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/ajax/article_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/ajax/column_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/ajax/my_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/apply.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/details.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/edit_apply.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/column/my.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/config/pagination.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/explore/ajax/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/explore/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/favorite/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/feature/detail.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/debuger.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/email_template.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/error_404.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/feed.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/footer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/header.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/header_landing.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/header_meta.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/global/show_message.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/help/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/help/square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/home/ajax/draft.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/home/ajax/index_actions.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/home/ajax/invite.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/home/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/inbox/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/inbox/read.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/index/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/final.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/footer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/header.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/settings.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/success.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/upgrade.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/install/upgrade_fail.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/integral/rule.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/invitation/ajax/invitation_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/invitation/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/article_answer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/draft.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/explore_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/favorite_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/focus_topics_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/hot_topics_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/inbox_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/index_actions.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/invite.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/notifications_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/question_answer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/question_comments.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/search_result.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/user_actions_questions_101.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/ajax/user_actions_questions_201.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/article.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/article_square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/draft.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/favorite.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/find_password.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/find_password_modify.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/find_password_success.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/focus.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/footer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/header.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/header_meta.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/home.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/inbox.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/inbox_new.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/inbox_read.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/invite.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/login.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/nav_menu.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/nearby_people.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/nearby_question.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/notifications.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/people.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/people_square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/publish.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/question.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/register.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/search.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/settings.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/topic.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/topic_square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/verify.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/m/weixin/authorization.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/notifications/ajax/header_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/notifications/ajax/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/notifications/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/page/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/payment/alipay.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/people/ajax/follows.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/people/ajax/topics.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/people/ajax/user_actions.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/people/ajax/user_actions_questions_101.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/people/ajax/user_actions_questions_201.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/people/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/people/square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/ajax/list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/manage/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/manage/order.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/order/add.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/order/init_payment.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/publish.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/sponsored/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/project/submit.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/publish/article.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/publish/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/publish/suggest.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/question/ajax/answer.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/question/ajax/comments.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/question/ajax/load_attach.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/question/ajax/log.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/question/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/question/square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/reader/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/search/ajax/search_result.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/search/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/ticket/ajax/reply.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/ticket/data.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/ticket/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/ticket/my.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/ticket/publish.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/ticket/square.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/ticket/topic.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/topic/ajax/focus_column_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/topic/ajax/focus_topics_list.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/topic/edit.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/topic/index.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/topic/manage.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/topic/related_topics.tpl.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/youxiake/topic/square.tpl.htm" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/default/img/favicon.ico" afterPath="$PROJECT_DIR$/static/css/default/img/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/default/img/logo.png" afterPath="$PROJECT_DIR$/static/css/default/img/logo.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--0/078a7c---fielavjgfncbqgz_cache_user_group_99" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--0/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_99" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_question_related_list_35e431a7a8d215b2b2657247b0478f99_10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_update_views_question_b0dbf4563c8d1efd68a0878b537eb620_5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_question_related_list_35e431a7a8d215b2b2657247b0478f99_10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_update_views_question_b0dbf4563c8d1efd68a0878b537eb620_5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--b/078a7c---fielavjgfncbqgz_cache_question_related_list_39dfb4715a2b4d0123210dcf9828355e_10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_question_related_list_39dfb4715a2b4d0123210dcf9828355e_10" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/default/img/login_bg.jpg" afterPath="$PROJECT_DIR$/static/css/default/img/login_bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/default/common.css" afterPath="$PROJECT_DIR$/static/css/default/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_admin_notifications" afterPath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_admin_notifications" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_f5abaad34643a35c3216e2730ce1f252" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_f5abaad34643a35c3216e2730ce1f252" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---fielavjgfncbqgz_cache_crond_timer_half_hour" afterPath="$PROJECT_DIR$/cache/078a7c--8/078a7c---fielavjgfncbqgz_cache_crond_timer_half_hour" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_hour" afterPath="$PROJECT_DIR$/cache/078a7c--8/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_hour" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_crond_timer_half_minute" afterPath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_crond_timer_half_minute" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_crond_timer_ten_minutes" afterPath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_crond_timer_ten_minutes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_minute" afterPath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_minute" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_ten_minutes" afterPath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_ten_minutes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--b/078a7c---fielavjgfncbqgz_cache_crond_timer_five_minutes" afterPath="$PROJECT_DIR$/cache/078a7c--b/078a7c---fielavjgfncbqgz_cache_crond_timer_five_minutes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_five_minutes" afterPath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_five_minutes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_question_related_list_ca9642014c68fe6c9fb5f71f24d960a6_10" afterPath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_question_related_list_ca9642014c68fe6c9fb5f71f24d960a6_10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/default/green.css" afterPath="$PROJECT_DIR$/static/css/default/green.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/aws_controller.inc.php" afterPath="$PROJECT_DIR$/system/aws_controller.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/config.inc.php" afterPath="$PROJECT_DIR$/system/config.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/config/database.php" afterPath="$PROJECT_DIR$/system/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/config/install.lock.php" afterPath="$PROJECT_DIR$/system/config/install.lock.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/uri.php" afterPath="$PROJECT_DIR$/system/core/uri.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/block/content_nav_menu.tpl.htm" afterPath="$PROJECT_DIR$/views/default/block/content_nav_menu.tpl.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/explore/index.tpl.htm" afterPath="$PROJECT_DIR$/views/default/explore/index.tpl.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/global/footer.tpl.htm" afterPath="$PROJECT_DIR$/views/default/global/footer.tpl.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/global/header.tpl.htm" afterPath="$PROJECT_DIR$/views/default/global/header.tpl.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/account/login.tpl.htm" afterPath="$PROJECT_DIR$/views/default/account/login.tpl.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -354,11 +85,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.tpl.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.tpl.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/default/explore/index.tpl.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+            <state relative-caret-position="630">
+              <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/explore/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aws_controller.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/aws_controller.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="green.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="1079" column="36" lean-forward="false" selection-start-line="1079" selection-start-column="36" selection-end-line="1079" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.tpl.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/default/account/login.tpl.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -412,9 +183,7 @@
         <option value="$PROJECT_DIR$/app/home/main.php" />
         <option value="$PROJECT_DIR$/system/core/uri.php" />
         <option value="$PROJECT_DIR$/views/youxiake/global/footer.tpl.htm" />
-        <option value="$PROJECT_DIR$/system/aws_controller.inc.php" />
         <option value="$PROJECT_DIR$/views/youxiake/global/header.tpl.htm" />
-        <option value="$PROJECT_DIR$/static/css/default/green.css" />
         <option value="$PROJECT_DIR$/app/explore/main.php" />
         <option value="$PROJECT_DIR$/static/css/youxiake/youxiake.css" />
         <option value="$PROJECT_DIR$/app/index/main.php" />
@@ -425,6 +194,9 @@
         <option value="$PROJECT_DIR$/views/default/global/footer.tpl.htm" />
         <option value="$PROJECT_DIR$/views/default/explore/index.tpl.htm" />
         <option value="$PROJECT_DIR$/static/css/default/common.css" />
+        <option value="$PROJECT_DIR$/system/aws_controller.inc.php" />
+        <option value="$PROJECT_DIR$/static/css/default/green.css" />
+        <option value="$PROJECT_DIR$/views/default/account/login.tpl.htm" />
       </list>
     </option>
   </component>
@@ -468,6 +240,17 @@
             <path>
               <item name="lvyou" type="b2602c69:ProjectViewProjectNode" />
               <item name="lvyou" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lvyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lvyou" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="explore" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lvyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lvyou" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -504,7 +287,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="common&#9;FILE&#9;file://E:/project/lvyou/static/css/default/common.css&#10;youxiake&#9;FILE&#9;file://G:/server/data/lvyou/static/css/youxiake/youxiake.css&#10;green.css&#9;FILE&#9;file://G:/server/data/lvyou/static/css/default/green.css&#10;global&#9;FILE&#9;file://G:/server/data/lvyou/views/youxiake/global&#10;index&#9;FILE&#9;file://G:/server/data/lvyou/index.php&#10;green&#9;FILE&#9;file://E:/project/lvyou/static/css/default/green.css&#10;doma&#9;FILE&#9;file://E:/project/lvyou/views/youxiake/block/domain_nav_menu.tpl.htm&#10;system.&#9;FILE&#9;file://E:/project/lvyou/models/system.php" />
+    <property name="SearchEverywhereHistoryKey" value="login&#9;FILE&#9;file://E:/project/lvyou/views/default/account/login.tpl.htm&#10;green&#9;FILE&#9;file://E:/project/lvyou/static/css/default/green.css&#10;common&#9;FILE&#9;file://E:/project/lvyou/static/css/default/common.css&#10;youxiake&#9;FILE&#9;file://G:/server/data/lvyou/static/css/youxiake/youxiake.css&#10;green.css&#9;FILE&#9;file://G:/server/data/lvyou/static/css/default/green.css&#10;global&#9;FILE&#9;file://G:/server/data/lvyou/views/youxiake/global&#10;index&#9;FILE&#9;file://G:/server/data/lvyou/index.php&#10;doma&#9;FILE&#9;file://E:/project/lvyou/views/youxiake/block/domain_nav_menu.tpl.htm&#10;system.&#9;FILE&#9;file://E:/project/lvyou/models/system.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -545,12 +328,12 @@
       <workItem from="1540126233319" duration="203000" />
       <workItem from="1540126453618" duration="171000" />
       <workItem from="1540126707194" duration="5737000" />
-      <workItem from="1540193754716" duration="3652000" />
+      <workItem from="1540193754716" duration="6417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21169000" />
+    <option name="totallyTimeSpent" value="23934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
@@ -563,7 +346,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17653167" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17653167" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -755,24 +538,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/aws_controller.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -809,14 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/explore/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="151" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -887,8 +648,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/default/explore/index.tpl.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+        <state relative-caret-position="630">
+          <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/explore/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/aws_controller.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="1079" column="36" lean-forward="false" selection-start-line="1079" selection-start-column="36" selection-end-line="1079" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/default/account/login.tpl.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding />
         </state>
       </provider>
