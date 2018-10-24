@@ -35,7 +35,7 @@
 <body>
 <div class="aw-login">
     <div class="mod center-block">
-        <h1><img src="<?php echo G_STATIC_URL; ?>/admin/img/wecenter-logo.png" alt="" /></h1>
+        <h1 style="text-align: center;"><span style="color:#5bbf5a;font-size:1.5em;">Feelings</span> BBS</h1>
 
         <form role="form" id="login_form"  onsubmit="return false" action="admin/ajax/login_process/" method="post">
             <?php if ($_GET['url']){ ?>
@@ -67,9 +67,9 @@
                 </div>
             </div>
             <?php } ?>
-            <button type="submit" class="btn btn-primary" id="login_submit" onclick="AWS.ajax_post($('#login_form'), AWS.ajax_processer, 'error_message');"><?php _e('登录'); ?></button>
+            <button type="submit" class="btn btn-success" id="login_submit" onclick="AWS.ajax_post($('#login_form'), AWS.ajax_processer, 'error_message');"><?php _e('登录'); ?></button>
         </form>
 
-        <h2 class="text-center text-color-999">WeCenter Admin Control</h2>
+        <h2 class="text-center text-color-999">广州油麦菜信息科技有限公司</h2>
     </div>
 </div>

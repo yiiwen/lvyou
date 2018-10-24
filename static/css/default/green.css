@@ -51,7 +51,7 @@ html{height: 100%;}
 body{margin: 0;height: 100%;font-size:14px; line-height:160%;color: #666;background:url('img/bg.gif') repeat;}
 body, input, button, select, textarea, h1, h2, h3, h4, h5, h6{font-family:'Helvetica Neue', 'STHeiti', '微软雅黑', 'Microsoft YaHei', Helvetica,Arial,sans-serif;}
 ul, ol{margin:0;padding:0;list-style:none;}
-h1, h2, h3, h4, h5, h6{margin-top:0;font-size:100%;line-height: 1.7;}
+h1, h2, h3, h4, h5, h6{margin-top:0;font-size:1em;line-height: 1.7;}
 dd{margin-left: 10px;}
 a{cursor: pointer;color:#5bbf5a;}
 a:hover{text-decoration: none;color: #5bbf5a;}
@@ -1109,3 +1109,6 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
 
 .question_detail {  font-size: 14px;line-height: 21px;overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;max-height:63px;}
 .detail-btn a,.detail-btn span{color:#070771 !important;}
+.font-blue{color:#5bbf5a !important;}
+#login_submit{background-color:#5bbf5a !important;}
+.login-title{font-size:3em;line-height: 3.7;}
