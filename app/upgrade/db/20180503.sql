@@ -1,27 +1,27 @@
 CREATE TABLE `[#DB_PREFIX#]column_focus` (
-  `focus_id` int(11) NOT NULL AUTO_INCREMENT COMMENT '×ÔÔöID',
-  `column_id` int(11) DEFAULT NULL COMMENT '×¨À¸ID',
-  `uid` int(11) DEFAULT NULL COMMENT 'ÓÃ»§UID',
-  `add_time` int(10) DEFAULT NULL COMMENT 'Ìí¼ÓÊ±¼ä',
+  `focus_id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'ï¿½ï¿½ï¿½ï¿½ID',
+  `column_id` int(11) DEFAULT NULL COMMENT '×¨ï¿½ï¿½ID',
+  `uid` int(11) DEFAULT NULL COMMENT 'ï¿½Ã»ï¿½UID',
+  `add_time` int(10) DEFAULT NULL COMMENT 'ï¿½ï¿½ï¿½Ê±ï¿½ï¿½',
   PRIMARY KEY (`focus_id`),
   KEY `uid` (`uid`),
   KEY `topic_id` (`column_id`),
   KEY `topic_uid` (`column_id`,`uid`)
-) ENGINE=[#DB_ENGINE#] DEFAULT CHARSET=utf8 COMMENT='×¨À¸¹Ø×¢±í';
+) ENGINE=[#DB_ENGINE#] DEFAULT CHARSET=utf8 COMMENT='×¨ï¿½ï¿½ï¿½ï¿½×¢ï¿½ï¿½';
 
 CREATE TABLE `[#DB_PREFIX#]column` (
-  `column_id` int(11) NOT NULL AUTO_INCREMENT COMMENT '×¨À¸id',
-  `column_name` varchar(64) DEFAULT NULL COMMENT '×¨À¸±êÌâ',
-  `is_verify` tinyint(1) DEFAULT 0 COMMENT 'ÊÇ·ñÉóºËÍ¨¹ý £¨1Í¨¹ý0ÉóºËÖÐ-1Í¨¹ý£©',
-  `focus_count` int(11) DEFAULT '0' COMMENT '¹Ø×¢¼ÆÊý',
-  `column_description` text COMMENT '×¨À¸ÃèÊö',
-  `column_pic` varchar(255) DEFAULT NULL COMMENT '×¨À¸Í¼Æ¬',
-  `uid` int(11) DEFAULT NULL COMMENT 'ÓÃ»§UID',
-  `sort` int(10) DEFAULT 0 COMMENT 'ÅÅÐò',
-  `add_time` int(10) DEFAULT NULL COMMENT 'Ìí¼ÓÊ±¼ä',
-  `reson` varchar(100) COMMENT '¾Ü¾øÔ­Òò',
+  `column_id` int(11) NOT NULL AUTO_INCREMENT COMMENT '×¨ï¿½ï¿½id',
+  `column_name` varchar(64) DEFAULT NULL COMMENT '×¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½',
+  `is_verify` tinyint(1) DEFAULT 0 COMMENT 'ï¿½Ç·ï¿½ï¿½ï¿½ï¿½Í¨ï¿½ï¿½ ï¿½ï¿½1Í¨ï¿½ï¿½0ï¿½ï¿½ï¿½ï¿½ï¿½-1Í¨ï¿½ï¿½ï¿½ï¿½',
+  `focus_count` int(11) DEFAULT '0' COMMENT 'ï¿½ï¿½×¢ï¿½ï¿½ï¿½ï¿½',
+  `column_description` text COMMENT '×¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½',
+  `column_pic` varchar(255) DEFAULT NULL COMMENT '×¨ï¿½ï¿½Í¼Æ¬',
+  `uid` int(11) DEFAULT NULL COMMENT 'ï¿½Ã»ï¿½UID',
+  `sort` int(10) DEFAULT 0 COMMENT 'ï¿½ï¿½ï¿½ï¿½',
+  `add_time` int(10) DEFAULT NULL COMMENT 'ï¿½ï¿½ï¿½Ê±ï¿½ï¿½',
+  `reson` varchar(100) COMMENT 'ï¿½Ü¾ï¿½Ô­ï¿½ï¿½',
   PRIMARY KEY (`column_id`)
-) ENGINE=[#DB_ENGINE#] DEFAULT CHARSET=utf8 COMMENT='×¨À¸±í';
+) ENGINE=[#DB_ENGINE#] DEFAULT CHARSET=utf8 COMMENT='×¨ï¿½ï¿½ï¿½ï¿½';
 CREATE TABLE `[#DB_PREFIX#]payment` (
   `id` int(10) NOT NULL AUTO_INCREMENT,
   `uid` int(10) NOT NULL,
@@ -235,11 +235,11 @@ CREATE TABLE `[#DB_PREFIX#]ticket_invite` (
   KEY `time` (`time`)
 ) ENGINE=[#DB_ENGINE#] DEFAULT CHARSET=utf8;
 
-ALTER TABLE `[#DB_PREFIX#]users` ADD `column_count` int(10) NOT NULL DEFAULT '0' COMMENT '×¨À¸ÊýÁ¿';
-ALTER TABLE `[#DB_PREFIX#]users` ADD `theme` varchar(64) COMMENT 'Ö÷Ìâ';
-ALTER TABLE `[#DB_PREFIX#]article` ADD `column_id` int(11)  COMMENT 'ËùÊô×¨À¸id';
-ALTER TABLE `[#DB_PREFIX#]article` ADD `article_img` varchar (255)  COMMENT 'ÎÄÕÂ·âÃæ';
-ALTER TABLE `[#DB_PREFIX#]users` ADD `skin` varchar(32) DEFAULT 'common.css'  COMMENT 'Æ¤·ô';
+ALTER TABLE `[#DB_PREFIX#]users` ADD `column_count` int(10) NOT NULL DEFAULT '0' COMMENT '×¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½';
+ALTER TABLE `[#DB_PREFIX#]users` ADD `theme` varchar(64) COMMENT 'ï¿½ï¿½ï¿½ï¿½';
+ALTER TABLE `[#DB_PREFIX#]article` ADD `column_id` int(11)  COMMENT 'ï¿½ï¿½ï¿½ï¿½×¨ï¿½ï¿½id';
+ALTER TABLE `[#DB_PREFIX#]article` ADD `article_img` varchar (255)  COMMENT 'ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½';
+ALTER TABLE `[#DB_PREFIX#]users` ADD `skin` varchar(32) DEFAULT 'green.css'  COMMENT 'Æ¤ï¿½ï¿½';
 
 
 INSERT INTO `[#DB_PREFIX#]system_setting` (`varname`, `value`) VALUES ('project_enabled', 's:1:"N";');

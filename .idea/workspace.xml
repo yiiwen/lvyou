@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ce6151-22b7-4aee-8009-d108d2f1c460" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_square_hot_topic_list_total_rows" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_square_hot_topic_list_total_rows" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---fielavjgfncbqgz_cache_square_hot_topic_list85d1bffab0e59923096ad12e06f0d6aa_0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---internal-metadatas---fielavjgfncbqgz_cache_square_hot_topic_list85d1bffab0e59923096ad12e06f0d6aa_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/plugins_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/plugins_table.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/upgrade/db/20180503.sql" afterPath="$PROJECT_DIR$/app/upgrade/db/20180503.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--0/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_99" afterPath="$PROJECT_DIR$/cache/078a7c--0/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_99" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--2/078a7c---fielavjgfncbqgz_cache_crond_timer_hour" afterPath="$PROJECT_DIR$/cache/078a7c--2/078a7c---fielavjgfncbqgz_cache_crond_timer_hour" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--2/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_hour" afterPath="$PROJECT_DIR$/cache/078a7c--2/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_hour" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_admin_notifications" afterPath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_admin_notifications" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" afterPath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---fielavjgfncbqgz_cache_crond_timer_half_hour" afterPath="$PROJECT_DIR$/cache/078a7c--8/078a7c---fielavjgfncbqgz_cache_crond_timer_half_hour" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_hour" afterPath="$PROJECT_DIR$/cache/078a7c--8/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_hour" />
@@ -26,12 +22,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_five_minutes" afterPath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_five_minutes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_3" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/default/green.css" afterPath="$PROJECT_DIR$/static/css/default/green.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/explore/index.tpl.htm" afterPath="$PROJECT_DIR$/views/default/explore/index.tpl.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/db/mysql.sql" afterPath="$PROJECT_DIR$/install/db/mysql.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/aws_controller.inc.php" afterPath="$PROJECT_DIR$/system/aws_controller.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/admin/css/common.css" afterPath="$PROJECT_DIR$/static/admin/css/green.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,8 +120,8 @@
       <file leaf-file-name="green.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="1186" column="13" lean-forward="true" selection-start-line="1186" selection-start-column="13" selection-end-line="1186" selection-end-column="13" />
+            <state relative-caret-position="579">
+              <caret line="1185" column="0" lean-forward="true" selection-start-line="1185" selection-start-column="0" selection-end-line="1185" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -185,7 +180,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="54" />
     <option name="y" value="-8" />
     <option name="width" value="1874" />
@@ -223,6 +218,13 @@
               <item name="lvyou" type="b2602c69:ProjectViewProjectNode" />
               <item name="lvyou" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lvyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lvyou" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -230,7 +232,6 @@
               <item name="lvyou" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="lvyou" type="b2602c69:ProjectViewProjectNode" />
@@ -294,21 +295,22 @@
       <workItem from="1540286064098" duration="5828000" />
       <workItem from="1540343428504" duration="1472000" />
       <workItem from="1540348295115" duration="7487000" />
-      <workItem from="1540366143581" duration="12756000" />
+      <workItem from="1540366143581" duration="14151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67056000" />
+    <option name="totallyTimeSpent" value="68451000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17676212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -320,7 +322,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -530,8 +531,8 @@
         <state relative-caret-position="881">
           <caret line="61" column="61" lean-forward="false" selection-start-line="61" selection-start-column="61" selection-end-line="61" selection-end-column="61" />
           <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -570,8 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="1186" column="13" lean-forward="true" selection-start-line="1186" selection-start-column="13" selection-end-line="1186" selection-end-column="13" />
+        <state relative-caret-position="579">
+          <caret line="1185" column="0" lean-forward="true" selection-start-line="1185" selection-start-column="0" selection-end-line="1185" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -768,7 +768,7 @@ CREATE TABLE `[#DB_PREFIX#]users` (
   `recent_topics` text,
   `theme` varchar(64) COMMENT '主题',
   `column_count` int(10) NOT NULL DEFAULT '0' COMMENT '专栏数量',
-  `skin` varchar (32)  DEFAULT 'common.css' COMMENT '皮肤',
+  `skin` varchar (32)  DEFAULT 'green.css' COMMENT '皮肤',
   PRIMARY KEY (`uid`),
   KEY `user_name` (`user_name`),
   KEY `email` (`email`),
