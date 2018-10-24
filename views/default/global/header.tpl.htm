@@ -5,8 +5,9 @@
 		1=>array('url'=>'home','title'=>'动态','status'=>'Y','is_user'=>1,'icon'=>'icon icon-home'),
 		2=>array('url'=>'column','title'=>'专栏','status'=>get_setting('enable_column'),'is_user'=>0,'icon'=>'icon icon-column'),
 		3=>array('url'=>'topic','title'=>'话题','status'=>'Y','is_user'=>0,'icon'=>'icon icon-topic'),
-		4=>array('url'=>'notifications','title'=>'通知','status'=>'Y','is_user'=>1,'icon'=>'icon icon-bell'),
-		5=>array('url'=>'help','title'=>'帮助','status'=>get_setting('enable_help_center'),'is_user'=>0,'icon'=>'icon icon-bulb'),
+		4=>array('url'=>'friend','title'=>'结伴出行','status'=>'Y','is_user'=>1,'icon'=>'icon icon-qq'),
+		5=>array('url'=>'notifications','title'=>'通知','status'=>'Y','is_user'=>1,'icon'=>'icon icon-qq'),
+		6=>array('url'=>'help','title'=>'帮助','status'=>get_setting('enable_help_center'),'is_user'=>0,'icon'=>'icon icon-bulb'),
 	);
 	if(!$this->user_id){	
 		foreach($nav as $k=>$v){
@@ -58,7 +59,7 @@
 				<nav role="navigation" class="collapse navbar-collapse bs-navbar-collapse">
 				  <ul class="nav navbar-nav">
 				  	<?php
-				  	 foreach(array_slice($nav,0,5) as $k=>$v):?>
+				  	 foreach(array_slice($nav,0,6) as $k=>$v):?>
 				  		<?php if($v['is_user']==0 && $v['status']=='Y'):?>
 							<li><a href="<?php echo $v['url'];?>/"<?php if ($_GET['app'] == $v['url'] ) { ?> class="active"<?php } ?>><i class="<?php echo $v['icon'];?>"></i> <?php _e($v['title']); ?></a></li>
 						<?php elseif($v['is_user']==1 && $v['status']=='Y' && $this->user_id):?>

@@ -89,7 +89,7 @@ class AWS_CONTROLLER
         }
 		// 引入系统 CSS 文件
 		TPL::import_css(array(
-			'css/'.$css,
+			'css/green.css',
 			'css/link.css',
 			'js/plug_module/style.css',
 		));
@@ -367,7 +367,7 @@ class AWS_ADMIN_CONTROLLER extends AWS_CONTROLLER
 		));
 
 		TPL::import_css(array(
-			'admin/css/common.css'
+			'admin/css/green.css'
 		));
 
 		if (in_array($_GET['act'], array(
