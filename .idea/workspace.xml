@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ce6151-22b7-4aee-8009-d108d2f1c460" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--0/078a7c---fielavjgfncbqgz_cache_user_group_99" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--0/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_99" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_square_hot_topic_list_total_rows" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_square_hot_topic_list_total_rows" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---fielavjgfncbqgz_cache_square_hot_topic_list85d1bffab0e59923096ad12e06f0d6aa_0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---internal-metadatas---fielavjgfncbqgz_cache_square_hot_topic_list85d1bffab0e59923096ad12e06f0d6aa_0" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" afterPath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_crond_timer_half_minute" afterPath="$PROJECT_DIR$/cache/078a7c--a/078a7c---fielavjgfncbqgz_cache_crond_timer_half_minute" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_minute" afterPath="$PROJECT_DIR$/cache/078a7c--a/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_half_minute" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,8 +66,8 @@
       <file leaf-file-name="header_meta.tpl.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/default/global/header_meta.tpl.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="61" lean-forward="false" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+            <state relative-caret-position="450">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -121,7 +106,7 @@
       <file leaf-file-name="green.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="19476">
               <caret line="1082" column="0" lean-forward="false" selection-start-line="1082" selection-start-column="0" selection-end-line="1082" selection-end-column="0" />
               <folding />
             </state>
@@ -225,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,7 +245,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -313,16 +298,18 @@
       <workItem from="1540286064098" duration="5828000" />
       <workItem from="1540343428504" duration="1472000" />
       <workItem from="1540348295115" duration="7487000" />
+      <workItem from="1540366143581" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54300000" />
+    <option name="totallyTimeSpent" value="54320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17511013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17676212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -485,9 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-          <folding>
-            <element signature="e#1477#1483#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,13 +505,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="19476">
           <caret line="1082" column="0" lean-forward="false" selection-start-line="1082" selection-start-column="0" selection-end-line="1082" selection-end-column="0" />
           <folding />
         </state>
@@ -546,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-587">
           <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/default/global/header_meta.tpl.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="61" lean-forward="false" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        <state relative-caret-position="450">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="84" />
           <folding />
         </state>
       </provider>
