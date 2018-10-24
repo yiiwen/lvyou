@@ -1175,3 +1175,24 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
     border-radius: 4px;
     overflow: hidden;
 }
+
+.top-ad{
+    margin-bottom:15px;
+}
+
+.left-ad {
+    padding:12px;
+}
+
+.left-ad img{
+    width:100%;
+}
+
+.right-ad{
+    padding:13px;
+    padding-left :5px;
+}
+
+.right-ad img{
+    width:100%;
+}

@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ce6151-22b7-4aee-8009-d108d2f1c460" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_user_actions_050536647214f2b1398284a52cc41004" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_user_actions_42313b6764f84f8e709d56d7c611ae4a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_user_actions_940222ade2401c27cf112992065c8877" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_050536647214f2b1398284a52cc41004" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_42313b6764f84f8e709d56d7c611ae4a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_940222ade2401c27cf112992065c8877" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_update_views_people_21b38d3bcb2a6417a039036233d4850e_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_update_views_people_21b38d3bcb2a6417a039036233d4850e_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_user_actions_0418c783c8a0335afcc5423e0536dd88" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_user_actions_4014bbea4f61593974fb94db00e2b48b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_user_actions_7c7b23ffe10825da18545758c0917543" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_user_actions_a18651da2bbd88b505655216a2f9313e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_user_actions_e099b243a53a2e0dece84b3619b37188" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---fielavjgfncbqgz_cache_user_actions_ed18477bbe22a32269c892b093b2d8fd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_update_views_people_21b38d3bcb2a6417a039036233d4850e_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_update_views_people_21b38d3bcb2a6417a039036233d4850e_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_0418c783c8a0335afcc5423e0536dd88" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_4014bbea4f61593974fb94db00e2b48b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_7c7b23ffe10825da18545758c0917543" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_a18651da2bbd88b505655216a2f9313e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_e099b243a53a2e0dece84b3619b37188" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_ed18477bbe22a32269c892b093b2d8fd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_user_actions_0bbfd30c6d7efe2fff86061e79c010db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_user_actions_21c3a50a488ea0ef5eb3bc4b799a7b0f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_user_actions_2c9eafd0283d799ca8681e15529cc653" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_user_actions_f1aa98dd7485b8bb9db126fd47797e24" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_user_actions_f5dc88a402cf8d6448bba9a137ab4fbc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_0bbfd30c6d7efe2fff86061e79c010db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_21c3a50a488ea0ef5eb3bc4b799a7b0f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_2c9eafd0283d799ca8681e15529cc653" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_f1aa98dd7485b8bb9db126fd47797e24" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_actions_f5dc88a402cf8d6448bba9a137ab4fbc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_square_hot_topic_list_total_rows" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_square_hot_topic_list_total_rows" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---fielavjgfncbqgz_cache_square_hot_topic_list85d1bffab0e59923096ad12e06f0d6aa_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/078a7c--8/078a7c---internal-metadatas---fielavjgfncbqgz_cache_square_hot_topic_list85d1bffab0e59923096ad12e06f0d6aa_0" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--0/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_99" afterPath="$PROJECT_DIR$/cache/078a7c--0/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_99" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--2/078a7c---fielavjgfncbqgz_cache_crond_timer_hour" afterPath="$PROJECT_DIR$/cache/078a7c--2/078a7c---fielavjgfncbqgz_cache_crond_timer_hour" />
@@ -41,7 +13,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---fielavjgfncbqgz_cache_crond_timer_minute" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" afterPath="$PROJECT_DIR$/cache/078a7c--4/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_minute" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_admin_notifications" afterPath="$PROJECT_DIR$/cache/078a7c--5/078a7c---internal-metadatas---fielavjgfncbqgz_cache_admin_notifications" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" afterPath="$PROJECT_DIR$/cache/078a7c--6/078a7c---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" afterPath="$PROJECT_DIR$/cache/078a7c--6/078a7c---internal-metadatas---fielavjgfncbqgz_cache_db_rows_cache_61443c9ac0a3790fd4a6ebb023b69912" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" afterPath="$PROJECT_DIR$/cache/078a7c--7/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_users_group" />
@@ -55,13 +26,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_five_minutes" afterPath="$PROJECT_DIR$/cache/078a7c--b/078a7c---internal-metadatas---fielavjgfncbqgz_cache_crond_timer_five_minutes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---fielavjgfncbqgz_cache_reputation_calculate_start" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" afterPath="$PROJECT_DIR$/cache/078a7c--e/078a7c---internal-metadatas---fielavjgfncbqgz_cache_reputation_calculate_start" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_fielavjgfncbqgz_group_crond" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_3" afterPath="$PROJECT_DIR$/cache/078a7c--f/078a7c---internal-metadatas---fielavjgfncbqgz_cache_user_group_3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/default/green.css" afterPath="$PROJECT_DIR$/static/css/default/green.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/aws_controller.inc.php" afterPath="$PROJECT_DIR$/system/aws_controller.inc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/explore/index.tpl.htm" afterPath="$PROJECT_DIR$/views/default/explore/index.tpl.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/default/global/header.tpl.htm" afterPath="$PROJECT_DIR$/views/default/global/header.tpl.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -115,8 +85,8 @@
       <file leaf-file-name="index.tpl.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/default/explore/index.tpl.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="306">
+              <caret line="30" column="77" lean-forward="false" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -125,18 +95,8 @@
       <file leaf-file-name="header_meta.tpl.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/default/global/header_meta.tpl.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="94" lean-forward="false" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/icon.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="349" column="8" lean-forward="false" selection-start-line="349" selection-start-column="1" selection-end-line="349" selection-end-column="8" />
+            <state relative-caret-position="540">
+              <caret line="30" column="89" lean-forward="false" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -162,54 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/explore/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aws_controller.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/aws_controller.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="green.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="1136" column="34" lean-forward="true" selection-start-line="1136" selection-start-column="34" selection-end-line="1136" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.tpl.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/default/admin/login.tpl.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1098">
-              <caret line="61" column="61" lean-forward="false" selection-start-line="61" selection-start-column="61" selection-end-line="61" selection-end-column="61" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.tpl.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/default/account/login.tpl.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="597">
+              <caret line="1186" column="13" lean-forward="true" selection-start-line="1186" selection-start-column="13" selection-end-line="1186" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -377,12 +294,12 @@
       <workItem from="1540286064098" duration="5828000" />
       <workItem from="1540343428504" duration="1472000" />
       <workItem from="1540348295115" duration="7487000" />
-      <workItem from="1540366143581" duration="6790000" />
+      <workItem from="1540366143581" duration="12756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61090000" />
+    <option name="totallyTimeSpent" value="67056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -553,29 +470,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/default/admin/login.tpl.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
-          <caret line="61" column="61" lean-forward="false" selection-start-line="61" selection-start-column="61" selection-end-line="61" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/default/account/login.tpl.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/default/swiper.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -594,26 +493,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/aws_controller.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/default/global/header_meta.tpl.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="94" lean-forward="false" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/icon.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="349" column="8" lean-forward="false" selection-start-line="349" selection-start-column="1" selection-end-line="349" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/aws_controller.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="92" column="27" lean-forward="false" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -626,10 +517,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/default/global/footer.tpl.htm">
+    <entry file="file://$PROJECT_DIR$/views/default/account/login.tpl.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/default/admin/login.tpl.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="61" column="61" lean-forward="false" selection-start-line="61" selection-start-column="61" selection-end-line="61" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/default/global/header_meta.tpl.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="53" />
+          <caret line="30" column="89" lean-forward="false" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/default/explore/index.tpl.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="77" lean-forward="false" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -642,18 +560,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/default/explore/index.tpl.htm">
+    <entry file="file://$PROJECT_DIR$/views/default/global/footer.tpl.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="540">
+          <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/default/green.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="1136" column="34" lean-forward="true" selection-start-line="1136" selection-start-column="34" selection-end-line="1136" selection-end-column="34" />
+        <state relative-caret-position="597">
+          <caret line="1186" column="13" lean-forward="true" selection-start-line="1186" selection-start-column="13" selection-end-line="1186" selection-end-column="13" />
           <folding />
         </state>
       </provider>
