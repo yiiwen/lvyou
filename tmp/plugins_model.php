@@ -1,1 +1,1 @@
-a:2:{s:18:"aws_external_class";s:58:"G:\server\data\lvyou\plugins/aws_external/aws_external.php";s:26:"aws_offical_external_class";s:74:"G:\server\data\lvyou\plugins/aws_offical_external/aws_offical_external.php";}
+a:2:{s:18:"aws_external_class";s:54:"E:\project\lvyou\plugins/aws_external/aws_external.php";s:26:"aws_offical_external_class";s:70:"E:\project\lvyou\plugins/aws_offical_external/aws_offical_external.php";}

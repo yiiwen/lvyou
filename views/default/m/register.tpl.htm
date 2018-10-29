@@ -4,9 +4,9 @@
 <div class="container">
 	<div class="aw-login-box">
 		<div class="mod-head">
-			<img src="<?php echo G_STATIC_URL; ?>/mobile/img/login-logo.png" alt="" width="198" />
-			<h1><?php echo get_setting('site_name'); ?></h1>
 			<a href="m/login/" class="register btn btn-default"><?php _e('登录'); ?></a>
+			<p style="height: 50px;"></p>
+			<h1><span style="color: #5bbf5a;">Feelings</span> BBS</h1>
 		</div>
 		<div class="mod-body">
 			<form id="register_form" method="post" onsubmit="ajax_post($('#register_form')); return false;" action="account/ajax/register_process/">
@@ -37,7 +37,7 @@
 					</li>
 					<?php } ?>
 					<li>
-						<a class="btn btn-primary btn-block" onclick="AWS.ajax_post($('#register_form'));"><?php _e('注册'); ?></a>
+						<a class="btn btn-success btn-block" onclick="AWS.ajax_post($('#register_form'));"><?php _e('注册'); ?></a>
 					</li>
 				</ul>
 			</form>

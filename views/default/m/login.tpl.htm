@@ -4,9 +4,9 @@
 <div class="container">
 	<div class="aw-login-box">
 		<div class="mod-head">
-			<img src="<?php echo G_STATIC_URL; ?>/mobile/img/login-logo.png" alt="" width="198" />
-			<h1><?php echo get_setting('site_name'); ?></h1>
 			<a href="m/register/" class="register btn btn-default"><?php _e('注册'); ?></a>
+			<p style="height: 50px;"></p>
+			<h1><span style="color: #5bbf5a;">Feelings</span> BBS</h1>
 		</div>
 		<div class="mod-body">
 			<form id="login_form" method="post" onsubmit="return false;" action="account/ajax/login_process/">
@@ -20,7 +20,7 @@
 						<input type="password" class="form-control" name="password" placeholder="<?php _e('密码'); ?>" onkeydown="if (event.keyCode == 13) { AWS.ajax_post($('#login_form')); }" />
 					</li>
 					<li>
-						<a class="btn btn-primary btn-block" onclick="AWS.ajax_post($('#login_form'));"><?php _e('登录'); ?></a>
+						<a class="btn btn-success btn-block" onclick="AWS.ajax_post($('#login_form'));"><?php _e('登录'); ?></a>
 					</li>
 					<li class="text-center other-signup">
 						<?php if (get_setting('sina_weibo_enabled') == 'Y') { ?>

@@ -409,7 +409,7 @@ textarea.form-control{padding:6px;}
 /* 登录界面 */
 .aw-login-box .mod-head{position:relative;text-align: center;}
 .aw-login-box .mod-head img{margin-top:30px;}
-.aw-login-box .mod-head h1{margin-bottom:25px;font-size: 15px;color: #666;}
+.aw-login-box .mod-head h1{margin-bottom:25px;font-size: 15px;color: #666;font-size: 3em;}
 .aw-login-box .mod-head .register{position: absolute;right: 0;top: 10px;background-color: transparent;border-color: #66b7ff;color: #66b7ff;}
 .aw-login-box .mod-head .register:hover, .aw-login-box .mod-head .register:active{background-color: #66B7FF;color: #fff;}
 .aw-login-box .mod-body{padding:0 20px;}
