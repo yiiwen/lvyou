@@ -1196,3 +1196,14 @@ blockquote {margin: 0 40px;padding: 0 15px;font-size: 14px;color: #777;border-le
 .right-ad img{
     width:100%;
 }
+
+.aw-question-content {
+    width: 93%;
+    float: right;
+}
+
+.avatar {
+    margin-top: 10px;
+    display: block;
+    float: left;
+}
