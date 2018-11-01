@@ -346,6 +346,13 @@ function import_editor_static_files()
 	TPL::import_js('js/editor/ckeditor/adapters/jquery.js');
 }
 
+function import_ueeditor_static_files()
+{
+    TPL::import_js('ueditor/ueditor.all.js');
+    TPL::import_js('ueditor/ueditor.config.js');
+    TPL::import_js('ueditor/lang/zh-cn/zh-cn.js');
+}
+
 function get_chapter_icon_url($id, $size = 'max', $default = true)
 {
 	if (file_exists(get_setting('upload_dir') . '/chapter/' . $id . '-' . $size . '.jpg'))

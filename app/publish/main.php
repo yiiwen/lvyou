@@ -187,6 +187,11 @@ class main extends AWS_CONTROLLER
 			import_editor_static_files();
 		}
 
+		if (get_setting('advanced_editor_enable') == 'UEditor')
+        {
+            import_ueeditor_static_files();
+        }
+
 		if (get_setting('upload_enable') == 'Y')
 		{
 			// fileupload
@@ -261,6 +266,11 @@ class main extends AWS_CONTROLLER
 		{
 			import_editor_static_files();
 		}
+
+		if (get_setting('advanced_editor_enable') == 'UEditor')
+        {
+            import_ueeditor_static_files();
+        }
 
 		if (get_setting('upload_enable') == 'Y')
 		{
